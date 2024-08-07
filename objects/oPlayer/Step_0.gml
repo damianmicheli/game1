@@ -27,7 +27,7 @@ if gamepad_button_check(0,gp_padr){
 	controller = 1;
 }
 
-if (gamepad_button_check_pressed(0,gp_face1))||gamepad_button_check(0,gp_shoulderrb)||gamepad_button_check(0,gp_stickr){
+if (gamepad_button_check_pressed(0,gp_face1))||gamepad_button_check(0,gp_shoulderlb)||gamepad_button_check(0,gp_shoulderl)||gamepad_button_check(0,gp_stickr){
 	controller = 1;
 	key_jump = 1;
 
