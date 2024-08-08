@@ -10,3 +10,4 @@ key_right = 0;
 key_jump = 0;
 
 controller = 0;
+hascontrol = true;
